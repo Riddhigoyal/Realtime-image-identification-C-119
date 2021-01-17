@@ -1,0 +1,43 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px cyan;
+    font-family: cursive;
+}
+
+.heading_div{
+    border-radius: 15px;
+    float: none;
+    background-color: lawngreen;
+    box-shadow: -5px -5px 10px yellow;
+    padding: 10px;
+    color: red;
+}
+
+.heading_div2{
+    font-size: 18px;
+    font-family: fantasy;
+}
+
+.result_paraTag{
+    font-size: 21px;
+    box-shadow: 3px 3px 10px yellow;
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border:3px solid black;
+    border-radius: 15px;
+    box-shadow: 5px -5px 10px lime;
+    margin-top: 150px;
+}
